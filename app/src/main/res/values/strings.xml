@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simulasi Pinjaman Online</string>
+
+    <string name="input">Masukkan Jumlah Uang :</string>
+    <string name="tenor">Masukkan lama Tenor :</string>
+
+    <string name="cair">Jumlah Uang Cair :</string>
+    <string name="bunga">Jumlah Yang Di Bayar :</string>
+
+    <string name="btn_hitung">hitung</string>
+</resources>

@@ -1,0 +1,4 @@
+pranata/voga/databinding/ActivityMainBinding.java
+ pranata.voga.databinding.ActivityMainBinding
+pranata/voga/BuildConfig.java
+ pranata.voga.BuildConfig
